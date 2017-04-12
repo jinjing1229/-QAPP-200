@@ -1,0 +1,241 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(153, 153, 153, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u62_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u62 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:667px;
+}
+#u63 {
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u64_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:188px;
+  height:24px;
+}
+#u64 {
+  position:absolute;
+  left:11px;
+  top:75px;
+  width:188px;
+  height:24px;
+}
+#u65 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:184px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u66_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:367px;
+  height:41px;
+}
+#u66 {
+  position:absolute;
+  left:5px;
+  top:379px;
+  width:367px;
+  height:41px;
+  font-size:16px;
+}
+#u67 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:363px;
+  word-wrap:break-word;
+}
+#u66_ann {
+  position:absolute;
+  left:365px;
+  top:375px;
+  width:1px;
+  height:1px;
+}
+#u68_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:29px;
+}
+#u68 {
+  position:absolute;
+  left:14px;
+  top:69px;
+  width:67px;
+  height:29px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u68_img.mouseDown {
+}
+#u68.mouseDown {
+}
+#u68_img.selected {
+}
+#u68.selected {
+}
+#u69 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:63px;
+  word-wrap:break-word;
+}
+#u70_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u70 {
+  position:absolute;
+  left:101px;
+  top:69px;
+  width:67px;
+  height:29px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u71 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:63px;
+  word-wrap:break-word;
+}
+#u72_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u72 {
+  position:absolute;
+  left:191px;
+  top:69px;
+  width:67px;
+  height:29px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u73 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:63px;
+  word-wrap:break-word;
+}
+#u74_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u74 {
+  position:absolute;
+  left:284px;
+  top:69px;
+  width:67px;
+  height:29px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+#u75 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:63px;
+  word-wrap:break-word;
+}
+#u76 {
+  position:absolute;
+  left:11px;
+  top:135px;
+  width:119px;
+  height:118px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
